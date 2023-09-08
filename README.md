@@ -11,15 +11,15 @@ Because Agathic Logic recognizes that ethical decision-making is complex and mul
 
 ## Axioms:
 
-Tautology: Any statement is either true or false with respect to the given value system.
-Necessitation: If a statement is true, then it is necessarily true with respect to the given value system.
-Possibility: Any statement is possibly true or possibly false with respect to the given value system.
-Distribution: Necessarily, if a statement A implies a statement B, then necessarily A implies necessarily B with respect to the given value system.
-Reflexivity: Any statement is necessarily true of itself with respect to the given value system.
-Transitivity: If A is necessarily true and A implies B, then B is necessarily true with respect to the given value system.
-Non-Contradiction: No statement can be both true and false with respect to the given value system.
-Excluded Middle: Every statement is either true or false with respect to the given value system.
-Ought Implies Can: If something is good to do, then it is possible to do it.
+- Tautology: Any statement is either true or false with respect to the given value system.
+- Necessitation: If a statement is true, then it is necessarily true with respect to the given value system.
+- Possibility: Any statement is possibly true or possibly false with respect to the given value system.
+- Distribution: Necessarily, if a statement A implies a statement B, then necessarily A implies necessarily B with respect to the given value system.
+- Reflexivity: Any statement is necessarily true of itself with respect to the given value system.
+- Transitivity: If A is necessarily true and A implies B, then B is necessarily true with respect to the given value system.
+- Non-Contradiction: No statement can be both true and false with respect to the given value system.
+- Excluded Middle: Every statement is either true or false with respect to the given value system.
+- Ought Implies Can: If something is good to do, then it is possible to do it.
 
 ## DataTable
 
